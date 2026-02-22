@@ -1,6 +1,6 @@
-# Hi, I'm Pedro Ivo 👋
+# Pedro Ivo 👋
 
-**Senior Software Engineer** · Backend · Frontend · Cloud · Architecture · CI/CD
+**Senior Software Engineer** — Backend · Frontend · Cloud · Architecture · CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedroits-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroits/)
 [![Email](https://img.shields.io/badge/Email-pedro.its@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pedro.its@gmail.com)
